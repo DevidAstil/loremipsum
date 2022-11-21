@@ -112,7 +112,7 @@ body{
 .intro {
     padding-top: 200px;
     padding-bottom: 170px;
-    background-image: url('/img/intro-bg.jpg');
+    background-image: url('../img/intro-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
     .intro_title {
@@ -172,7 +172,7 @@ body{
 }
 .formalization {
     background-color: #272733;
-    background-image: url('/img/formalization-bg.png');
+    background-image: url('../img/formalization-bg.png');
     background-repeat: no-repeat;
     background-position: center;
     padding-top: 120px;
@@ -220,7 +220,7 @@ body{
             .formalization_item-image {
                 width: 100px;
                 height: 100px;
-                background-image: url('/img/formalization-item-bg.png');
+                background-image: url('../img/formalization-item-bg.png');
                 position: relative;
                 margin: 0 auto;
                 margin-bottom: 20px;
@@ -307,7 +307,7 @@ body{
             position: absolute;
             width: 18px;
             height: 20px;
-            background-image: url('/img/fail2.svg');
+            background-image: url('../img/fail2.svg');
             left: 96px;
             top: 14px;
         }
@@ -396,7 +396,7 @@ body{
         color: #FFFFFF;
         &::after {
           
-          background-image: url('/img/arrow2.svg');
+          background-image: url('../img/arrow2.svg');
         }
       }
       .__select__content {
@@ -421,7 +421,7 @@ body{
     &::after {
        content: "";
        position: absolute;
-       background-image:url('/img/arrow.svg');
+       background-image:url('../img/arrow.svg');
        width: 9px;
        height: 6px;
        right: 16px;
